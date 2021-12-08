@@ -9,7 +9,3 @@
   
 <h3>
 
-
-#  Source Code
-
-<h3>The entire source of the bot is public. You can use it by forking.</h3>
